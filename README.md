@@ -1,1 +1,1 @@
-# ShapeAI-Project
+# Weather API
